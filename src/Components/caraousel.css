@@ -1,0 +1,18 @@
+.carousel{
+    overflow: hidden;
+}
+.main-element{
+    transition: transform 1s;
+    white-space: nowrap;
+    
+}
+.carousel-item{
+    background-color: black;
+    color:white;
+    height: 200px;
+   
+    display: inline-flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
